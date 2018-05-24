@@ -1,4 +1,4 @@
-package com.example.mvpdemo;
+package com.example.mvpdemo.view;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -7,6 +7,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
+import com.example.mvpdemo.R;
 import com.example.mvpdemo.presenter.ILoginPresenter;
 import com.example.mvpdemo.presenter.LoginPresenter;
 import com.example.mvpdemo.view.ILoginView;
